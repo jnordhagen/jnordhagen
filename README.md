@@ -1,1 +1,3 @@
-I'm Jakob Nordhagen, a rising senior at Stanford studying computer systems and machine learning. My email is jakobn@stanford.edu.
+I'm Jakob Nordhagen, a fourth-year CS student at Stanford pursuing degrees in computer systems and machine learning.
+
+You can reach me at jakobn@stanford.edu.
